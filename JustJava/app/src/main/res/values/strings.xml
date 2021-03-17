@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Just Java Coffee Orders</string>
+    <string name="hint_text">Enter Your Name Here</string>
+    <string name="toppings_header">Toppings</string>
+    <string name="whipped_cream">Whipped Cream? ($1.00)</string>
+    <string name="chocolate">Chocolate? ($2.00)</string>
+    <string name="cinnamon">Cinnamon? ($0.50)</string>
+    <string name="caramel">Caramel? ($2.00)</string>
+    <string name="quantity_header">Quantity ($5.00/per cup)</string>
+    <string name="price_header">Order Price</string>
+    <string name="total_text">Total: $0.00</string>
+    <string name="total">Total: </string>
+    <string name="check_button">Check</string>
+    <string name="order_button">Order</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="quantity">Quantity: </string>
+    <string name="name">Name: </string>
+    <string name="add_whipped_cream">Add Whipped Cream.</string>
+    <string name="add_chocolate">Add Chocolate.</string>
+    <string name="add_cinnamon">Add Cinnamon.</string>
+    <string name="add_caramel">Add Caramel.</string>
+    <string name="order">order for </string>
+    <string name="no_name">No name specified</string>
+</resources>

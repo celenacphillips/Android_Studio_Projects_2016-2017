@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java Pedidos de Café</string>
+    <string name="add_caramel">Añadir caramelo.</string>
+    <string name="add_chocolate">Añadir chocolate.</string>
+    <string name="add_cinnamon">Añadir canela.</string>
+    <string name="add_whipped_cream">Añadir crema batida.</string>
+    <string name="check_button">Comprobar</string>
+    <string name="chocolate">¿Chocolate? ($2.00)</string>
+    <string name="cinnamon">¿Canela? ($0.50)</string>
+    <string name="caramel">¿Caramelo? ($2.00)</string>
+    <string name="hint_text">Introduzca su nombre aquí</string>
+    <string name="name">Nombre:</string>
+    <string name="no_name">No se especificó ningún nombre</string>
+    <string name="order">orden para</string>
+    <string name="order_button">Orden</string>
+    <string name="price_header">Precio del Pedido</string>
+    <string name="quantity">"Cantidad: "</string>
+    <string name="quantity_header">Cantidad ($5.00/Por taza)</string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="toppings_header">Coronamiento</string>
+    <string name="total">Total:</string>
+    <string name="total_text">Total: $0.00</string>
+    <string name="whipped_cream">¿Crema Batida? ($1.00)</string>
+</resources>
